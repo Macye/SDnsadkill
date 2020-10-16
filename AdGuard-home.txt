@@ -1,0 +1,10 @@
+! [AdGuard-home.txt]
+! Version: 202010162045
+! Title: SDnsadkill
+! Last modified: 16 Oct 2020 20:45 UTC
+! Homepage: https://github.com/Macye/SDnsadkill/
+! 
+! GitHub issues: https://github.com/easylist/easylist/issues
+! GitHub pull requests: https://github.com/easylist/easylist/pulls
+! 
+! -----------------------Main advertising shielding filters-----------------------!
